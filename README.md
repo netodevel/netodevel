@@ -6,7 +6,7 @@ Currently working with the Java ecosystem and Cloud Native environments (k8s);
 
 
 🚀 My latest contributions
-- [quarkusio/quarkus](https://github.com/quarkusio/quarkus/pull/20188) - Adds config to add paths of jaxb.index
+- [WIP] [quarkusio/quarkus](https://github.com/quarkusio/quarkus/pull/20188) - Adds config to add paths of jaxb.index
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus/pull/20370) - Adds filter to file module-info.class
 - [mostafacs/quarkus-temporal-extension](https://github.com/mostafacs/quarkus-temporal-extension/pull/1) - Fixs build graalvm
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus/pull/17133) - Adds redis-devservices it
