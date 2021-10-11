@@ -2,7 +2,7 @@
 
 Hi, I'm José Vieira Neto, Brazilian software engineer.
 
-Currently working with the Java ecosystem and Cloud Native environments (k8s);
+Currently working with the Java ecosystem and Cloud Native environments.
 
 
 🚀 My latest contributions
