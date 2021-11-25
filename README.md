@@ -5,6 +5,7 @@ Hi, I'm José Vieira Neto, Brazilian software engineer.
 Currently working with the Java ecosystem and Cloud Native environments.
 
 🚀 My latest contributions
+- [quarkusio/quarkus](https://github.com/quarkusio/quarkus/pull/20849) - Support for java 17 in generated projects - Codestarts
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus/pull/20784) - Adds processor to annotation JsonAutoDetect
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus/pull/20370) - Adds filter to file module-info.class
 - [mostafacs/quarkus-temporal-extension](https://github.com/mostafacs/quarkus-temporal-extension/pull/1) - Fixs build graalvm
