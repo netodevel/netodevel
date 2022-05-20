@@ -1,3 +1,6 @@
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=netodevel&countColorcountColor)
+
+
 ### Hi there 👋
 
 Hi, I'm José Vieira Neto, Brazilian software engineer.
