@@ -14,3 +14,6 @@ Currently working with the Java/Kotlin ecosystem and Cloud Native environments.
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus/pull/17132) - Add information about DevServices in Redis documentation
 - [quarkusio/quarkus](https://github.com/quarkusio/code.quarkus.io/pull/463) - Fixs some code smells;
 - [ozimov/embedded-redis](https://github.com/ozimov/embedded-redis/pull/11) - Adds shutdown hook
+
+💻 My Blog
+- [https://www.netodevel.com](https://netodevel.com/)
